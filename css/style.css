@@ -1,0 +1,10 @@
+table#game-board {
+    width: 440px;
+}
+.cell {
+    width: 40px;
+    height: 40px;
+    border: 1px red solid;
+    float: left;
+    /*position: absolute;*/
+}
